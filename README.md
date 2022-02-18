@@ -1,2 +1,2 @@
 # face-recognition-api
-Back-end for the smart brain project
+Back-end code the smart brain project
